@@ -1,16 +1,19 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<body>
 
-<!--
-**CatBitDev/CatBitDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi there 👋 - My name is José Eduardo</h1>
+  <p>I'm currently learning Python on my own and aspire to specialize in backend development and machine learning.</p>
 
-Here are some ideas to get you started:
+  <p>I use GitHub to showcase my projects and share my knowledge with the community.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>I'm a firm believer in continuous learning and improvement. I welcome feedback and collaboration on my projects, so feel free to reach out if you'd like to contribute or provide suggestions.</p>
+
+  <p>I'm always open to connecting with developers! Let's learn and create together!</p>
+  <ul>
+    <li>📫 You can contact me at: <a href="mailto:rahulvarma5297@gmail.com">aaje.dev@gmail.com</a></li>
+  </ul>
+
+</body>
+</html>
+
