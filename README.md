@@ -1,4 +1,4 @@
-Hi there 👋, I'm José Eduardo
+Hi there 👋, I'm José Alvarado
 ==================
 Backend & Frontend Developer
 ---------------------------
