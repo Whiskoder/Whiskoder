@@ -1,24 +1,22 @@
-Hi there 👋 my name is José Eduardo
+Hi there 👋, I'm José Eduardo
 ==================
-Student, Programmer & Baker
+Backend & Frontend Developer
 ---------------------------
-*  I'm currently learning Python on my own and aspire to specialize in backend development and machine learning.
-*  I use GitHub to showcase my projects and share my knowledge with the community. I'm a firm believer in continuous learning and improvement.
-*  I'm always open to connecting with developers! Let's learn and create together!
-*  ✉️  You can contact me at [aaje.dev@gmail.com](mailto:aaje.dev@gmail.com)
-  
-  ###  Skills 
+- 🎓 Currently studying **Data Engineering** and **Artificial Intelligence**.
+- 💻 I use GitHub to showcase my projects and share knowledge with the community. Continuous learning and improvement are key to me.
+- 🌱 Always open to connect with developers. Let's collaborate and learn together!
+- ✉️ You can contact me at [whiskoder@proton.me](mailto:whiskoder@proton.me)
+
+----
+
+###  Skills 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/Whiskoder/Whiskoder/refs/heads/main/icons/nestjs.svg" width="36" height="36" alt="NestJS"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/Whiskoder/Whiskoder/refs/heads/main/icons/expressjs_dark.svg" width="36" height="36" alt="NestJS"/></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/Whiskoder/Whiskoder/refs/heads/main/icons/angular.svg" width="36" height="36" alt="Angular"/></a>
+<a href="https://tensorflow.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/Whiskoder/Whiskoder/refs/heads/main/icons/tensorflow.svg" width="36" height="36" alt="Tensorflow"/></a>
+<a href="https://docker.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/Whiskoder/Whiskoder/refs/heads/main/icons/docker.svg" width="36" height="36" alt="Docker"/></a>
+<a href="https://mongodb.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/Whiskoder/Whiskoder/refs/heads/main/icons/mongodb.svg" width="36" height="36" alt="Mongodb"/></a>
+<a href="https://postgresql.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/Whiskoder/Whiskoder/refs/heads/main/icons/postgresql.svg" width="36" height="36" alt="Postgresql"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CatBitDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CatBitDev's GitHub stats" /></a>
